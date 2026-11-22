@@ -1,6 +1,6 @@
 # retail-sales-PROJ# Online Retail Sales & Customer Analytics (Power BI)
 
-An end-to-end Power BI analytics project built on a 2010–2011 online retail transaction dataset, modeled in a star schema with custom DAX measures, time intelligence, drillthroughs, custom tooltips, and Row-Level Security (RLS).
+An end-to-end Power BI analytics project built on a 2010–2011 online retail transaction dataset, modeled in a star schema with custom DAX measures, time intelligence, drillthroughs, custom tooltips and Row-Level Security (RLS).
 
 ---
 
@@ -71,16 +71,15 @@ Repeat Customer Rate = DIVIDE([Repeat Customers], [Customers])
 
 ## Dashboard Preview
 
-> *Replace the image paths below with your exported report screenshots after uploading them to the `screenshots/` folder.*
 
 ### Overview Page
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard]([screenshots/overview.png](https://github.com/Chwayita-it/retail-sales-PROJ/blob/main/Customers.png)
 
 ### Products Page
 ![Products Dashboard](screenshots/products.png)
 
 ### Customers Page
-![Customers Dashboard](screenshots/customers.png)
+![Customers Dashboard](https://github.com/Chwayita-it/retail-sales-PROJ/blob/main/Customers.png))
 
 ---
 
