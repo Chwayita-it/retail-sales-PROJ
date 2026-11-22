@@ -73,7 +73,7 @@ Repeat Customer Rate = DIVIDE([Repeat Customers], [Customers])
 
 
 ### Overview Page
-![Overview Dashboard]([screenshots/overview.png](https://github.com/Chwayita-it/retail-sales-PROJ/blob/main/Customers.png)
+![Overview Dashboard](https://github.com/Chwayita-it/retail-sales-PROJ/blob/main/Overview.png)
 
 ### Products Page
 ![Products Dashboard](screenshots/products.png)
